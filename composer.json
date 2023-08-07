@@ -1,0 +1,10 @@
+{
+    "name": "aluno/prim-proj-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Aluno\\PrimProjPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
